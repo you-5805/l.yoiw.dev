@@ -3,6 +3,7 @@
     "module": "ESNext",
     "esModuleInterop": true,
     "moduleResolution": "node",
-    "types": ["vitest/globals"]
+    "types": ["vitest/globals"],
+    "skipLibCheck": true
   }
 }
